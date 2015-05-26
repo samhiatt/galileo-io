@@ -39,7 +39,8 @@
   "dependencies": {
     "es6-shim": "latest",
     "es6-promise": "latest",
-    "remapped": "~0.2.1"
+    "remapped": "~0.2.1",
+    "mraa":"0.6.2"
   },
   "devDependencies": {
     "rewire": "~2.0.0",
